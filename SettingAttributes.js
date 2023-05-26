@@ -1,6 +1,8 @@
+
 let image = document.getElementById("image");
 let input = document.getElementById("input");
 let button = document.getElementById("button");
+
 button.onclick = setImageSrc;
 
 /**
@@ -8,8 +10,10 @@ button.onclick = setImageSrc;
  * the input box. This works in the same way as modifying 'innerText'.
  */
 function setImageSrc(){
-//    code here
+    //    code here
 }
+
+
 /**
  * Did you notice that the variables at the top of the script were declared with 'let' instead of 'var'? That's
  * because JS actually has 3 ways to declare variables: var, let, const. Var doesn't have block scoping - meaning, when
