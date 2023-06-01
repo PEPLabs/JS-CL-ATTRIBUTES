@@ -2,6 +2,6 @@
 *.class
 *.jar
 
-.idea/
-target/
-dist/
+testing/.idea/
+testing/target/
+testing/dist/
