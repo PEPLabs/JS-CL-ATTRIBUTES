@@ -1,0 +1,7 @@
+*.iml
+*.class
+*.jar
+
+testing/.idea/
+testing/target/
+testing/dist/
