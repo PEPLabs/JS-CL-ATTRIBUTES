@@ -1,0 +1,15 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/SeleniumTest.java",
+      "testCases": [
+        {
+          "methodName": "testImageSrc",
+          "label": "Verify image source updates based on user input",
+          "description": "Checks that the image element's 'src' attribute changes correctly when a new URL is entered and the button is clicked."
+        }
+      ]
+    }
+  ]
+}
